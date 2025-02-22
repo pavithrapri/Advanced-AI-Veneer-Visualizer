@@ -1,4 +1,5 @@
 
+
 ## 🌟 **AI-Powered Veneer Visualization Project**
 
 ### 🎨 **Overview**
@@ -53,9 +54,9 @@ The AI-Powered Veneer Visualization application leverages deep learning to trans
    pip install -r requirements.txt  
    ```
 
-4. **Add Model Weights:**  
-   Download the pre-trained Pix2Pix model from the following drive link and place it in the `checkpoints` folder:  
-   👉 [Model Weights Drive Link](https://drive.google.com/drive/folders/1nwrAByu2_4jg0IS3eP2zt-0FF0HwNsT4?usp=sharing)  
+4. **Add Model Weights and Project Files:**  
+   Download the complete project and model weights from the following Google Drive link:  
+   👉 [Veneer Visualization Project - Drive Link](https://drive.google.com/drive/folders/1nwrAByu2_4jg0IS3eP2zt-0FF0HwNsT4?usp=drive_link)
 
 ---
 
@@ -86,4 +87,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you'd like to modify or add anything else! 😊
+Let me know if you'd like any further modifications! 😊
